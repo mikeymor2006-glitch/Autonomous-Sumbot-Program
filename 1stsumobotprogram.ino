@@ -1,4 +1,4 @@
-# The code below is the SumoBot program I used for the 2025 YURS SumoBot Competition.
+# The code below is the Arduino SumoBot program I used for the 2025 YURS SumoBot Competition.
 #define PWMB 6
 #define IN1B 4
 #define IN2B 5
